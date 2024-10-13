@@ -46,7 +46,7 @@ function App() {
     <>
       <div className='w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-3 my-8 bg-gray-800 text-white'>
         <h1 className="text-3xl font-bold text-white py-3">
-          Password Generator
+          Random Password
         </h1>
         <div className='flex py-3 gap-2'>
           <input
